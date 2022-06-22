@@ -1,8 +1,8 @@
 Hi 👋 My name is Alex Manoel
 ============================
 
-FrontEnd Developer
-🖥---------------------
+FrontEnd Developer 🖥
+---------------------
 
 * 🌍  I'm based in Brazil 🇧🇷
 * ✉️  You can contact me at [alexmanoel93@gmail.com](mailto:alexmanoel93@gmail.com)
