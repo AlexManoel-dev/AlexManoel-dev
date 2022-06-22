@@ -1,7 +1,7 @@
 Hi 👋 My name is Alex Manoel
 ============================
 
-FrontEnd Developer 🖥
+FrontEnd Developer 🖥 - at [eKaizen](https://www.linkedin.com/in/e-kaizen-digital-9041a2215/)
 ---------------------
 
 * 🌍  I'm based in Brazil 🇧🇷
