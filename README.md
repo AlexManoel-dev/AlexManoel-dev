@@ -15,7 +15,7 @@ Alex Manoel 🖥
 <a href="https://github.com/AlexManoel-dev" align="left"><img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexManoel-dev&layout=compact&langs_count=6"
     alt="Top Languages"
-/></a>
+ /></a>
 
 ### Skills
 
