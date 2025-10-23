@@ -1,12 +1,13 @@
 Alex Manoel 🖥
 ---------------------
 
-###### FrontEnd Developer currently working at [eKaizen](https://www.linkedin.com/in/e-kaizen-digital-9041a2215/)
+<!--###### FrontEnd Developer currently working at [eKaizen](https://www.linkedin.com/in/e-kaizen-digital-9041a2215/)-->
 
 * 🌍  I'm based in Brazil 🇧🇷
 * ✉️  You can contact me at [alexmanoel93@gmail.com](mailto:alexmanoel93@gmail.com)
-* 🧠  I'm learning Angular
-* ⚡  I want to be a FullStack Developer
+* 🧠  I'm learning Cibersecurity
+* ⚡  I want to be a Pentester/SOC
+* 🖥️  Portfolio: [https://alexmanoel.com/](https://alexmanoel.com/)
 
 ### Socials<p align="left"> <a href="https://www.github.com/AlexManoel-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexmanoel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
